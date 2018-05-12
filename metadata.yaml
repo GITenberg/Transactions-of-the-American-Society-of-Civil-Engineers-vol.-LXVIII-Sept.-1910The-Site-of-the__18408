@@ -1,0 +1,29 @@
+_repo: Transactions-of-the-American-Society-of-Civil-Engineers-vol.-LXVIII-Sept.-1910The-Site-of-the__18408
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Clarke, George C.
+    gutenberg_agent_id: '8008'
+    url: http://www.gutenberg.org/2009/agents/8008
+description: ''
+gutenberg_bookshelf: Technology
+gutenberg_issued: '2006-05-17'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '18408'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'TA'
+- !lcsh 'Civil engineering -- Periodicals'
+- !lcsh 'Railroad stations -- Design and construction'
+title: 'Transactions of the American Society of Civil Engineers, vol. LXVIII, Sept.
+  1910
+
+  The Site of the Terminal Station. Paper No. 1157'
+url: http://www.gutenberg.org/ebooks/18408
